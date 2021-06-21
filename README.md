@@ -1,4 +1,7 @@
-# Iris Decision Tree algorithm
+The Spark Foundation 
+Data Science and Business Analytics internship
+
+Prediction using Decision Tree Algorithm
 
 Aim:
 1. Create the Decision Tree classifier and visualize it graphically using the IRIS dataset.
